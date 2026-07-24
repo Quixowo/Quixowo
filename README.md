@@ -51,7 +51,7 @@ I'm looking for a software engineering or machine learning internship where I ca
   </tr>
 </table>
 
-<sub><b>Also working with:</b> RAG · Embeddings · LLMs · Computer Vision · Deep Learning · NLP · FAISS · AWS Bedrock · Claude · SciPy · SPARQL / Wikibase</sub>
+<sub><b>Also working with:</b> RAG · Embeddings · LLMs · Computer Vision · Deep Learning · NLP · FAISS · AWS Bedrock · Claude SDK </sub>
 
 ---
 
