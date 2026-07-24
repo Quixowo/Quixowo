@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Thang 👋</h1>
+<h1 align="center">Thang Nguyen</h1>
 
 <p align="center">
   <b>CS @ UC Berkeley '28</b> · SWE Intern <a href="https://buildbee.com">@Buildbee</a> · Break Through Tech AI/ML Fellow
@@ -15,16 +15,16 @@
 
 ---
 
-### 👋 About me
+### About me
 
-- 🔭 Working on **LLM systems engineering** — agent loops, retrieval, tool design, and evaluation — plus computer vision and applied ML research.
-- 🧪 I care about the unglamorous half: retrieval that refuses to fabricate, safety limits enforced in code instead of prompts, and metrics beyond a single accuracy number.
-- 🎓 Also a **CS61A teaching intern** — explaining recursion and OOP to 40+ students made me a much clearer engineer.
-- 🎯 Open to **SWE / ML internships** where I can ship real systems and learn from people who've done it at scale — leads welcome!
+- Working on **LLM systems engineering** — agent loops, retrieval, tool design, and evaluation — plus computer vision and applied ML research.
+- I care about the unglamorous half: retrieval that refuses to fabricate, safety limits enforced in code instead of prompts, and metrics beyond a single accuracy number.
+- Also a **CS61A teaching intern** — explaining recursion and OOP to 40+ students made me a much clearer engineer.
+- Open to **SWE / ML internships** where I can ship real systems and learn from people who've done it at scale — leads welcome.
 
 ---
 
-### 🎯 Featured Project: [HeyCoach](https://github.com/Quixowo/HeyCoach) — an agentic AI weightlifting coach
+### Featured Project: [HeyCoach](https://github.com/Quixowo/HeyCoach) — an agentic AI weightlifting coach
 
 A training tracker with an AI coach on top that reasons over *your* logged data, adjusts your program within safety limits, and answers grounded training questions.
 
@@ -36,11 +36,11 @@ A training tracker with an AI coach on top that reasons over *your* logged data,
 | **Hardened** | Server-side JWT validation injects the user ID so it's never an LLM-supplied argument — closing the obvious prompt-injection path |
 | **Stack** | FastAPI · React + Vite · Postgres + pgvector · Redis · Anthropic API · Voyage embeddings · Docker |
 
-➡️ **[Read the full write-up →](https://github.com/Quixowo/HeyCoach)**
+**[Read the full write-up →](https://github.com/Quixowo/HeyCoach)**
 
 ---
 
-### 💼 What I've been working on
+### What I've been working on
 
 | Where | What |
 |---|---|
@@ -51,7 +51,7 @@ A training tracker with an AI coach on top that reasons over *your* logged data,
 
 ---
 
-### 🌱 Currently building & learning
+### Currently building and learning
 
 - **Generative recommender (semantic IDs)** — implementing TIGER-style generative retrieval with RQ-VAE semantic IDs and benchmarking it against a two-tower baseline on Last.fm data, with a proper eval harness (bootstrap CIs, popularity floor).
 - **Job Radar** — a self-hosted service that polls Greenhouse/Lever/Ashby boards, scores postings against my keywords, and pushes matches to a FastAPI dashboard. Built to scratch my own internship-hunt itch.
@@ -59,7 +59,7 @@ A training tracker with an AI coach on top that reasons over *your* logged data,
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 <table>
   <tr>
@@ -79,7 +79,7 @@ A training tracker with an AI coach on top that reasons over *your* logged data,
     <td><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" alt="React, Next.js, Vite, Tailwind"></td>
   </tr>
   <tr>
-    <td align="right"><b>Cloud&nbsp;&&nbsp;Tools</b></td>
+    <td align="right"><b>Cloud&nbsp;and&nbsp;Tools</b></td>
     <td><img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode" alt="AWS, Docker, Git, GitHub, VS Code"></td>
   </tr>
 </table>
@@ -88,7 +88,7 @@ A training tracker with an AI coach on top that reasons over *your* logged data,
 
 ---
 
-### 🚀 More projects
+### More projects
 
 **[AI vs. Real Image Classifier](https://github.com/Quixowo/AI-Human-Images-Classifier)** — MobileNetV3-Large CNN that separates AI-generated images from real photography.
 `Python` · `TensorFlow/Keras` · `MobileNetV3`
@@ -101,8 +101,8 @@ A training tracker with an AI coach on top that reasons over *your* logged data,
 
 ---
 
-### 📫 How to reach me
+### How to reach me
 
-- 📧 **Email:** [thang.nguyen@berkeley.edu](mailto:thang.nguyen@berkeley.edu)
-- 💼 **LinkedIn:** [linkedin.com/in/thang-nguyen](https://www.linkedin.com/in/thang-nguyen)
-- 💬 Always happy to talk agent architectures, retrieval systems, or whatever you're building — open to internship leads and collaboration.
+- **Email:** [thang.nguyen@berkeley.edu](mailto:thang.nguyen@berkeley.edu)
+- **LinkedIn:** [linkedin.com/in/thang-nguyen](https://www.linkedin.com/in/thang-nguyen)
+- Always happy to talk agent architectures, retrieval systems, or whatever you're building — open to internship leads and collaboration.
