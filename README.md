@@ -18,8 +18,6 @@
 ### About me
 
 - Working on **LLM systems engineering** — agent loops, retrieval, tool design, and evaluation — plus computer vision and applied ML research.
-- I care about the unglamorous half: retrieval that refuses to fabricate, safety limits enforced in code instead of prompts, and metrics beyond a single accuracy number.
-- Also a **CS61A teaching intern** — explaining recursion and OOP to 40+ students made me a much clearer engineer.
 - Open to **SWE / ML internships** where I can ship real systems and learn from people who've done it at scale — leads welcome.
 
 ---
