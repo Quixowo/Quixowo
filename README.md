@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  I build <b>agentic AI systems</b> and <b>ML pipelines</b> that hold up outside a notebook — RAG that stays grounded, models that ship, evals that actually catch regressions.
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/thang-nguyen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:thang.nguyen@berkeley.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -17,8 +13,11 @@
 
 ### About me
 
-- Working on **LLM systems engineering** (e.g. agent loops, retrieval, tool design, and evaluation) plus computer vision and applied ML research.
-- Open to **SWE / ML internships** where I can ship real systems and learn from my peers.
+Hi, I'm Thang. I'm a Computer Science student at UC Berkeley, graduating in May 2028.
+
+I work on machine learning and AI systems: retrieval-augmented generation, agent loops, tool design, and computer vision. Right now I'm a software engineering intern at Buildbee and an AI/ML Fellow with Cornell's Break Through Tech. Before that I did deep-sea imagery segmentation research for the U.S. Department of the Interior and taught CS61A at Berkeley.
+
+I'm looking for a software engineering or machine learning internship where I can ship real systems and learn from my peers. If you have a lead, let me know.
 
 ---
 
