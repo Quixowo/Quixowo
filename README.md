@@ -48,14 +48,6 @@ A training tracker with an AI coach on top that reasons over *your* logged data,
 
 ---
 
-### Currently building and learning
-
-- **Generative recommender (semantic IDs)** — implementing TIGER-style generative retrieval with RQ-VAE semantic IDs and benchmarking it against a two-tower baseline on Last.fm data, with a proper eval harness (bootstrap CIs, popularity floor).
-- **Job Radar** — a self-hosted service that polls Greenhouse/Lever/Ashby boards, scores postings against my keywords, and pushes matches to a FastAPI dashboard. Built to scratch my own internship-hunt itch.
-- **Learning:** retrieval evaluation methodology, distributed training, and going deeper on TypeScript/React.
-
----
-
 ### Tech Stack
 
 <table>
