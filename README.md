@@ -82,7 +82,9 @@ A training tracker with an AI coach on top that reasons over *your* logged data,
 **[AI vs. Real Image Classifier](https://github.com/Quixowo/AI-Human-Images-Classifier)** — MobileNetV3-Large CNN that separates AI-generated images from real photography.
 `Python` · `TensorFlow/Keras` · `MobileNetV3`
 > **99.55% test accuracy**, <0.2% test loss on an 80,000-image dataset, with 99%+ across precision/recall/F1. Augmentation (horizontal flips, height/width shifts) alone added **14%** accuracy.
-> What I Learned: fine-tuning pretrained backbones; generalization, not just the training curve, matters most.
+> What I Learned:
+> How to fine-tune pretrained backbones
+> Generalization, not just the training curve, matters most.
 
 ---
 
