@@ -21,33 +21,6 @@ I'm looking for a software engineering or machine learning internship where I ca
 
 ---
 
-### Featured Project: [HeyCoach](https://github.com/Quixowo/HeyCoach) — agentic AI weightlifting coach
-
-A training tracker with an AI coach on top that reasons over *your* logged data, adjusts your program within safety limits, and answers grounded training questions.
-
-| | |
-|---|---|
-| **What I built** | A hand-rolled agent loop on the raw Anthropic SDK w/ server-executed tools and RAG-as-a-tool, so the agent retrieves only when it should |
-| **Grounded** | **100% groundedness** across the eval suites, retrieving from a 50+ document corpus; a second-pass check returns a conservative answer instead of fabricating when sources don't support the claim |
-| **Safe** | A **500ms Claude Haiku classifier** hits **100% injury red-flag recall**, short-circuiting acute-injury messages before the agent loop runs; progression math and a hard 10% load-jump cap are enforced in the tool layer |
-| **Hardened** | Server-side JWT validation injects the user ID so it's never an LLM-supplied argument. This closes an obvious prompt-injection path |
-| **Stack** | FastAPI · React + Vite · Postgres + pgvector · Redis · Anthropic API · Voyage embeddings · Docker |
-
-**[Read the full write-up →](https://github.com/Quixowo/HeyCoach)**
-
----
-
-### What I've been working on
-
-| Where | What |
-|---|---|
-| SWE Intern @ **Buildbee** | RAG pipeline over **300+ construction assets** with FAISS + Amazon Bedrock, so engineers find specs, drawings, and submittals instantly. Shipped a Microsoft Teams integration (Azure Bot Framework) that cut plan-update turnaround to **under 30 seconds**. |
-| AI/ML Fellow @ **Break Through Tech (Cornell)** | Selected from **4,000+ applicants** for a 12-month AI/ML program; building supervised-learning, regression, and neural-network prototypes through a 10-week intensive. |
-| ML Research @ **U.S. Dept. of the Interior** | ResNet34 model detecting polymetallic nodules across **157 deep-sea mosaics**. Raised DICE **50% → 88%** with multi-scale black top-hat transforms and adaptive percentile thresholding for weakly supervised labeling, and cut manual annotation time **70%** with a custom UI tool. |
-| Research Intern @ **Tokenworks.ai** | Matched **45k Sumerian subwords** to Wikidata lexeme IDs across 280k+ rows, cutting false matches **90%** with an 8-tier scoring algorithm that resolves Unicode discrepancies. |
-
----
-
 ### Tech Stack
 
 <table>
@@ -74,6 +47,33 @@ A training tracker with an AI coach on top that reasons over *your* logged data,
 </table>
 
 <sub><b>Also working with:</b> RAG · Embeddings · FAISS · pgvector · AWS Bedrock · Claude SDK · Pandas · NumPy · SciPy · Matplotlib · SPARQL / Wikibase</sub>
+
+---
+
+### Featured Project: [HeyCoach](https://github.com/Quixowo/HeyCoach) — agentic AI weightlifting coach
+
+A training tracker with an AI coach on top that reasons over *your* logged data, adjusts your program within safety limits, and answers grounded training questions.
+
+| | |
+|---|---|
+| **What I built** | A hand-rolled agent loop on the raw Anthropic SDK w/ server-executed tools and RAG-as-a-tool, so the agent retrieves only when it should |
+| **Grounded** | **100% groundedness** across the eval suites, retrieving from a 50+ document corpus; a second-pass check returns a conservative answer instead of fabricating when sources don't support the claim |
+| **Safe** | A **500ms Claude Haiku classifier** hits **100% injury red-flag recall**, short-circuiting acute-injury messages before the agent loop runs; progression math and a hard 10% load-jump cap are enforced in the tool layer |
+| **Hardened** | Server-side JWT validation injects the user ID so it's never an LLM-supplied argument. This closes an obvious prompt-injection path |
+| **Stack** | FastAPI · React + Vite · Postgres + pgvector · Redis · Anthropic API · Voyage embeddings · Docker |
+
+**[Read the full write-up →](https://github.com/Quixowo/HeyCoach)**
+
+---
+
+### What I've been working on
+
+| Where | What |
+|---|---|
+| SWE Intern @ **Buildbee** | RAG pipeline over **300+ construction assets** with FAISS + Amazon Bedrock, so engineers find specs, drawings, and submittals instantly. Shipped a Microsoft Teams integration (Azure Bot Framework) that cut plan-update turnaround to **under 30 seconds**. |
+| AI/ML Fellow @ **Break Through Tech (Cornell)** | Selected from **4,000+ applicants** for a 12-month AI/ML program; building supervised-learning, regression, and neural-network prototypes through a 10-week intensive. |
+| ML Research @ **U.S. Dept. of the Interior** | ResNet34 model detecting polymetallic nodules across **157 deep-sea mosaics**. Raised DICE **50% → 88%** with multi-scale black top-hat transforms and adaptive percentile thresholding for weakly supervised labeling, and cut manual annotation time **70%** with a custom UI tool. |
+| Research Intern @ **Tokenworks.ai** | Matched **45k Sumerian subwords** to Wikidata lexeme IDs across 280k+ rows, cutting false matches **90%** with an 8-tier scoring algorithm that resolves Unicode discrepancies. |
 
 ---
 
