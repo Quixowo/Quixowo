@@ -41,10 +41,10 @@ A training tracker with an AI coach on top that reasons over *your* logged data,
 
 | Where | What |
 |---|---|
-| **Buildbee** — SWE Intern | RAG pipeline over **300+ construction assets** with FAISS + Amazon Bedrock, so engineers find specs, drawings, and submittals instantly. Shipped a Microsoft Teams integration (Azure Bot Framework) that cut plan-update turnaround to **under 30 seconds**. |
-| **Break Through Tech (Cornell)** — AI/ML Fellow | Selected from **4,000+ applicants** for a 12-month AI/ML program; building supervised-learning, regression, and neural-network prototypes through a 10-week intensive. |
-| **U.S. Dept. of the Interior** — ML Researcher | ResNet34 model detecting polymetallic nodules across **157 deep-sea mosaics**. Raised DICE **50% → 88%** with multi-scale black top-hat transforms and adaptive percentile thresholding for weakly supervised labeling, and cut manual annotation time **70%** with a custom UI tool. |
-| **Tokenworks.ai** — Research Intern | Matched **45k Sumerian subwords** to Wikidata lexeme IDs across 280k+ rows, cutting false matches **90%** with an 8-tier scoring algorithm that resolves Unicode discrepancies. |
+| SWE Intern @ **Buildbee** | RAG pipeline over **300+ construction assets** with FAISS + Amazon Bedrock, so engineers find specs, drawings, and submittals instantly. Shipped a Microsoft Teams integration (Azure Bot Framework) that cut plan-update turnaround to **under 30 seconds**. |
+| AI/ML Fellow @ **Break Through Tech (Cornell)** | Selected from **4,000+ applicants** for a 12-month AI/ML program; building supervised-learning, regression, and neural-network prototypes through a 10-week intensive. |
+| ML Research @ **U.S. Dept. of the Interior** | ResNet34 model detecting polymetallic nodules across **157 deep-sea mosaics**. Raised DICE **50% → 88%** with multi-scale black top-hat transforms and adaptive percentile thresholding for weakly supervised labeling, and cut manual annotation time **70%** with a custom UI tool. |
+| Research Intern @ **Tokenworks.ai** | Matched **45k Sumerian subwords** to Wikidata lexeme IDs across 280k+ rows, cutting false matches **90%** with an 8-tier scoring algorithm that resolves Unicode discrepancies. |
 
 ---
 
