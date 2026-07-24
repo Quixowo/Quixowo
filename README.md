@@ -82,11 +82,7 @@ A training tracker with an AI coach on top that reasons over *your* logged data,
 **[AI vs. Real Image Classifier](https://github.com/Quixowo/AI-Human-Images-Classifier)** — MobileNetV3-Large CNN that separates AI-generated images from real photography.
 `Python` · `TensorFlow/Keras` · `MobileNetV3`
 > **99.55% test accuracy**, <0.2% test loss on an 80,000-image dataset, with 99%+ across precision/recall/F1. Augmentation (horizontal flips, height/width shifts) alone added **14%** accuracy.
-> *Learned:* fine-tuning pretrained backbones, and why generalization — not a training curve — is the number that matters.
-
-**Polymetallic Nodule Segmentation** *(research, U.S. Dept. of the Interior)* — weakly supervised deep-sea imagery segmentation with a labeling UI built alongside the model.
-`Python` · `PyTorch` · `SciPy`
-> *Learned:* that the labeling bottleneck is often the real research problem, and classical CV (top-hat transforms, adaptive thresholding) still beats brute force when labels are scarce.
+> * What I Learned:* fine-tuning pretrained backbones; generalization, not just the training curve, matters most.
 
 ---
 
