@@ -98,5 +98,5 @@ A training tracker with an AI coach on top that reasons over *your* logged data,
 ### How to reach me
 
 - **Email:** [thang.nguyen@berkeley.edu](mailto:thang.nguyen@berkeley.edu)
-- **LinkedIn:** [https://www.linkedin.com/in/thang-nguyen-939402328/)
+- **LinkedIn:** [https://www.linkedin.com/in/thang-nguyen-939402328)
 - Always happy to talk; open to internship leads and collaboration.
