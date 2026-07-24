@@ -17,8 +17,8 @@
 
 ### About me
 
-- Working on **LLM systems engineering** — agent loops, retrieval, tool design, and evaluation — plus computer vision and applied ML research.
-- Open to **SWE / ML internships** where I can ship real systems and learn from people who've done it at scale — leads welcome.
+- Working on **LLM systems engineering** (e.g. agent loops, retrieval, tool design, and evaluation) plus computer vision and applied ML research.
+- Open to **SWE / ML internships** where I can ship real systems and learn from my peers.
 
 ---
 
