@@ -21,7 +21,7 @@ I'm looking for a software engineering or machine learning internship where I ca
 
 ---
 
-### Featured Project: [HeyCoach](https://github.com/Quixowo/HeyCoach) — an agentic AI weightlifting coach
+### Featured Project: [HeyCoach](https://github.com/Quixowo/HeyCoach) — agentic AI weightlifting coach
 
 A training tracker with an AI coach on top that reasons over *your* logged data, adjusts your program within safety limits, and answers grounded training questions.
 
