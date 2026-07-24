@@ -26,27 +26,32 @@ I'm looking for a software engineering or machine learning internship where I ca
 <table>
   <tr>
     <td align="right"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=py,java,cpp,ts,js,html,css" alt="Python, Java, C++, TypeScript, JavaScript, HTML, CSS"></td>
+    <td><img height="48" src="https://skillicons.dev/icons?i=py,java,cpp,ts,js,html,css" alt="Python, Java, C++, TypeScript, JavaScript, HTML, CSS"></td>
   </tr>
   <tr>
     <td align="right"><b>AI&nbsp;/&nbsp;ML</b></td>
-    <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,anaconda" alt="PyTorch, TensorFlow, scikit-learn, Anaconda"></td>
+    <td>
+      <img height="48" src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="PyTorch, TensorFlow, scikit-learn">
+      <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy">
+      <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas">
+      <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib">
+    </td>
   </tr>
   <tr>
     <td align="right"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb" alt="FastAPI, Node.js, Express, PostgreSQL, MongoDB"></td>
+    <td><img height="48" src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb,supabase" alt="FastAPI, Node.js, Express, PostgreSQL, MongoDB, Supabase"></td>
   </tr>
   <tr>
     <td align="right"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" alt="React, Next.js, Vite, Tailwind"></td>
+    <td><img height="48" src="https://skillicons.dev/icons?i=react,nextjs" alt="React, Next.js"></td>
   </tr>
   <tr>
     <td align="right"><b>Cloud&nbsp;and&nbsp;Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode" alt="AWS, Docker, Git, GitHub, VS Code"></td>
+    <td><img height="48" src="https://skillicons.dev/icons?i=aws,docker,git,github" alt="AWS, Docker, Git, GitHub"></td>
   </tr>
 </table>
 
-<sub><b>Also working with:</b> RAG · Embeddings · FAISS · pgvector · AWS Bedrock · Claude SDK · Pandas · NumPy · SciPy · Matplotlib · SPARQL / Wikibase</sub>
+<sub><b>Also working with:</b> RAG · Embeddings · LLMs · Computer Vision · Deep Learning · NLP · FAISS · AWS Bedrock · Claude · SciPy · SPARQL / Wikibase</sub>
 
 ---
 
