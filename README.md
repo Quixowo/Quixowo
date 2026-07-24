@@ -27,10 +27,10 @@ A training tracker with an AI coach on top that reasons over *your* logged data,
 
 | | |
 |---|---|
-| **What I built** | A hand-rolled agent loop on the raw Anthropic SDK — no framework — with 7 server-executed tools and RAG-as-a-tool, so the agent retrieves only when it should |
-| **Grounded, not fluent** | **100% groundedness** across the eval suites, retrieving from a 50+ document corpus; a second-pass check returns a conservative answer instead of fabricating when sources don't support the claim |
-| **Safety in code, not prompts** | A **500ms Claude Haiku classifier** hits **100% injury red-flag recall**, short-circuiting acute-injury messages before the agent loop runs; progression math and a hard 10% load-jump cap are enforced in the tool layer |
-| **Hardened** | Server-side JWT validation injects the user ID so it's never an LLM-supplied argument — closing the obvious prompt-injection path |
+| **What I built** | A hand-rolled agent loop on the raw Anthropic SDK w/ server-executed tools and RAG-as-a-tool, so the agent retrieves only when it should |
+| **Grounded** | **100% groundedness** across the eval suites, retrieving from a 50+ document corpus; a second-pass check returns a conservative answer instead of fabricating when sources don't support the claim |
+| **Safe** | A **500ms Claude Haiku classifier** hits **100% injury red-flag recall**, short-circuiting acute-injury messages before the agent loop runs; progression math and a hard 10% load-jump cap are enforced in the tool layer |
+| **Hardened** | Server-side JWT validation injects the user ID so it's never an LLM-supplied argument. This closes an obvious prompt-injection path |
 | **Stack** | FastAPI · React + Vite · Postgres + pgvector · Redis · Anthropic API · Voyage embeddings · Docker |
 
 **[Read the full write-up →](https://github.com/Quixowo/HeyCoach)**
@@ -90,4 +90,4 @@ A training tracker with an AI coach on top that reasons over *your* logged data,
 
 - **Email:** [thang.nguyen@berkeley.edu](mailto:thang.nguyen@berkeley.edu)
 - **LinkedIn:** [linkedin.com/in/thang-nguyen](https://www.linkedin.com/in/thang-nguyen)
-- Always happy to talk agent architectures, retrieval systems, or whatever you're building — open to internship leads and collaboration.
+- Always happy to talk; open to internship leads and collaboration.
