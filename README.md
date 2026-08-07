@@ -1,7 +1,7 @@
 <h1 align="center">Thang Nguyen</h1>
 
 <p align="center">
-  <b>CS @ UC Berkeley '28</b> · SWE Intern <a href="https://buildbee.net">@Buildbee</a> · Break Through Tech AI/ML Fellow
+  <b>CS @ UC Berkeley '29</b> · SWE Intern <a href="https://buildbee.net">@Buildbee</a> · Break Through Tech AI/ML Fellow
 </p>
 
 <p align="center">
