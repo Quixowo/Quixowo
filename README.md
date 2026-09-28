@@ -15,9 +15,9 @@
 
 Hi, I'm Thang Nguyen. I'm a Computer Science student at UC Berkeley, graduating in May 2029.
 
-I work on machine learning and AI systems: retrieval-augmented generation, agent loops, tool design, and computer vision. Right now I'm a software engineering intern at Buildbee and an AI/ML Fellow with Cornell's Break Through Tech. Before that I did deep-sea imagery segmentation research for the U.S. Department of the Interior and taught CS61A at Berkeley.
+I work on machine learning and AI systems: retrieval-augmented generation, agent loops, tool design, and computer vision. I'm currently an AI/ML Fellow with Cornell's Break Through Tech. Before that I was a software engineering intern at a startup called Buildbee, did deep-sea imagery segmentation research for the U.S. Department of the Interior, and taught CS61A at Berkeley.
 
-I'm looking for a software engineering or machine learning internship where I can ship real systems and learn from my peers. If you have a lead, let me know.
+I'm looking for a software engineering, AI engineering, and machine learning internship where I can ship real systems and learn from my peers.
 
 ---
 
