@@ -13,7 +13,7 @@
 
 ### About me
 
-Hi, I'm Thang Nguyen. I'm a Computer Science student at UC Berkeley, graduating in May 2029.
+Hi, I'm Thang Nguyen. I'm a Computer Science student at UC Berkeley.
 
 I work on machine learning and AI systems: retrieval-augmented generation, agent loops, tool design, and computer vision. I'm currently an AI/ML Fellow with Cornell's Break Through Tech. Before that I was a software engineering intern at a startup called Buildbee, did deep-sea imagery segmentation research for the U.S. Department of the Interior, and taught CS61A at Berkeley.
 
