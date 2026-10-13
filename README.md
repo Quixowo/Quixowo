@@ -1,7 +1,7 @@
 <h1 align="center">Thang Nguyen</h1>
 
 <p align="center">
-  <b>CS @ UC Berkeley '29</b> · Break Through Tech AI/ML Fellow
+  <b>CS @ UC Berkeley</b> · Break Through Tech AI/ML Fellow
 </p>
 
 <p align="center">
